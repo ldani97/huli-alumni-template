@@ -3,7 +3,7 @@
 Welcome to my page, my name is Dániel and I'm a fresh alumni of Green Fox Academy. I'm specializing in ServiceNow and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
-LinkedIn: edin.com/in/dániel-lukács-731576233/
+LinkedIn: linkedin.com/in/dániel-lukács-731576233/
 
 Email: lukacs.daniel97@protonmail.com
 
